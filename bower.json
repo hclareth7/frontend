@@ -1,0 +1,21 @@
+{
+  "name": "projecto-web",
+  "description": "este es un projecto web",
+  "main": "main.js",
+  "keywords": [
+    "web",
+    "angular"
+  ],
+  "authors": [
+    "hclareth7"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
